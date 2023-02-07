@@ -9,5 +9,5 @@
 
 ## Aufgabe 2
 1. [cnn.ipynb](https://github.com/Rob2U/BerlinerPfannkuchenKlassifikator/blob/main/src/scraping.ipynb) bzw. [tl_resenet.ipynb](https://github.com/Rob2U/BerlinerPfannkuchenKlassifikator/blob/main/src/tl_resenet.ipynb)
-2. Das selbst erstellte und vollständig selbst trainierte Convolutional Neural Network erreicht bereits nach kurzem Training eine Genauigkeit von rund 75-80%. Gleichzeitg erreicht das zweite Modell, ein um eine Dropout- und eine FullyConnected-Schicht erweitertes ResNet18, eine Genauigkeit von ungefähr 89-90% auf den Testdaten.
+2. Das selbst erstellte und vollständig selbst trainierte Convolutional Neural Network erreicht bereits nach kurzem Training eine Genauigkeit von rund 85-90%. Gleichzeitg erreicht das zweite Modell, ein um eine Dropout- und eine FullyConnected-Schicht erweitertes ResNet18, eine Genauigkeit von ungefähr 80-85% auf den Testdaten.
 3. (siehe [cnn.ipynb](https://github.com/Rob2U/BerlinerPfannkuchenKlassifikator/blob/main/src/scraping.ipynb) bzw. [tl_resenet.ipynb](https://github.com/Rob2U/BerlinerPfannkuchenKlassifikator/blob/main/src/tl_resenet.ipynb) enthält auch noch Konfusion-Matrix)
